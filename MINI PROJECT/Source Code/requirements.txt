@@ -1,0 +1,9 @@
+streamlit
+pandas==3.1.0
+plotly
+pypdf
+python-docx
+openpyxl
+xlrd
+python-pptx
+ollama
